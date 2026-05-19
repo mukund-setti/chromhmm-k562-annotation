@@ -6,11 +6,8 @@ data/raw/*.bai
 ChromHMM/ChromHMM.zip
 ChromHMM/ChromHMM/
 
-# Binarized output (can be regenerated)
+# Binarized output (can be regenerated, lots of files)
 data/binarized/
-
-# Model output (large - we may add specific files back later)
-models/
 
 # OS files
 Thumbs.db
