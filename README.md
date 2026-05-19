@@ -4,7 +4,7 @@ We annotate the **K562** chronic myeloid leukemia epigenome using [ChromHMM](htt
 
 ## Team
 
-This is a **team project** for [COURSE NAME/NUMBER], UC Irvine. All members contributed equally.
+This is a **team project** for CS 189, UC Irvine. All members contributed equally.
 
 **Advisor:** Dr. Jing Zhang ([zhang.jing@uci.edu](mailto:zhang.jing@uci.edu))
 
