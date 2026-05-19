@@ -1,0 +1,23 @@
+# Raw BAM files (too big for GitHub)
+data/raw/*.bam
+data/raw/*.bai
+
+# ChromHMM itself (re-downloadable)
+ChromHMM/ChromHMM.zip
+ChromHMM/ChromHMM/
+
+# Binarized output (can be regenerated)
+data/binarized/
+
+# Model output (large - we may add specific files back later)
+models/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
